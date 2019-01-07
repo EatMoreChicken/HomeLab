@@ -1,3 +1,7 @@
+---
+title: Home Lab
+---
+
 # Project: Home Lab
 ___
 
