@@ -7,7 +7,7 @@ These walkthroughs are meant to act are a guide to creating a home lab. Specific
 
 ## Projects
 
-Installing Virtual Box: [[+]](Creating_Home_Lab)
+Installing Virtual Box: [[+]](Creating_Home_Lab.md)
 
 Installing Windows 10 VM: [[-]]()
 
