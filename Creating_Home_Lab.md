@@ -15,6 +15,6 @@ ___
 
 4. Once the installation is completed, do a complete restart of your computer and try opening Virutal Box, just to ensure that everything was installed properly. 
 
-5. Now we are going to create some changes in the BIOS. Different vendors may have different methods of accessing the BIOS, please refer to (this)[https://www.lifewire.com/bios-setup-utility-access-keys-for-popular-computer-systems-2624463] article for more details about your specific vendor.
+5. Now we are going to create some changes in the BIOS. Different vendors may have different methods of accessing the BIOS, please refer to [this](https://www.lifewire.com/bios-setup-utility-access-keys-for-popular-computer-systems-2624463) article for more details about your specific vendor.
     - To read more about BIOS: [Click Here](https://www.lifewire.com/bios-basic-input-output-system-2625820)
     
