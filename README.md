@@ -1,2 +1,7 @@
-# hub
-A hub for most of my projects and collaborations.
+# Welcome
+___
+## Important Information
+
+## Projects
+
+## Links to Other Cool Information
